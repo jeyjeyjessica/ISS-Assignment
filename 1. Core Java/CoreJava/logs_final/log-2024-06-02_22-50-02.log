@@ -1,0 +1,4 @@
+22:50:02.558 [main] INFO  trial.PublicVarAccess - Accessing public variable : 
+22:50:02.567 [main] INFO  trial.PublicVarAccess - 40
+22:50:02.567 [main] INFO  trial.PublicVarAccess - Accessing public method
+22:50:02.568 [main] INFO  core.ModifierExample - Public method called.

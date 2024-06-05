@@ -1,0 +1,4 @@
+13:44:03.220 [main] ERROR core.ExceptionHandlingExample - Error: Division by zero is not allowed.
+13:44:03.227 [main] ERROR core.ExceptionHandlingExample - Error: Array size cannot be negative.
+13:44:03.227 [main] ERROR core.ExceptionHandlingExample - Error: Age must be 18 or above.
+13:44:03.228 [main] INFO  core.ExceptionHandlingExample - Program execution complete.

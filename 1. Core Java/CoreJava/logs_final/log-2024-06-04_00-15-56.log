@@ -1,0 +1,9 @@
+00:15:56.581 [main] ERROR core.JDBCExample - Error executing JDBC operations: 
+java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:421) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:412) ~[?:?]
+	at core.JDBCExample.main(JDBCExample.java:26) [bin/:?]

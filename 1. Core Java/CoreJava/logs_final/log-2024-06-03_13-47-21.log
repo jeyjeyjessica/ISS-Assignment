@@ -1,0 +1,4 @@
+13:47:21.462 [main] ERROR core.ExceptionHandlingExample - Error: java.lang.ArithmeticException: / by zero
+13:47:21.469 [main] ERROR core.ExceptionHandlingExample - Error: java.lang.NegativeArraySizeException: -5
+13:47:21.470 [main] ERROR core.ExceptionHandlingExample - Error: Age must be 18 or above.
+13:47:21.471 [main] INFO  core.ExceptionHandlingExample - Program execution complete.

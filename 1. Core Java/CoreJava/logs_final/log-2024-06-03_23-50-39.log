@@ -1,0 +1,7 @@
+23:50:39.637 [main] INFO  core.FileReadWriteExample - Existing data read from file: [Students names are : , Jess, , ]
+23:50:39.643 [main] INFO  core.FileReadWriteExample - Data written to file successfully.
+23:50:39.644 [main] INFO  core.FileReadWriteExample - Updated data read from file: [Students names are : , Jess, , , Jessica, Evan, Bobby]
+23:50:39.645 [main] INFO  core.FileReadWriteExample - File updated successfully.
+23:50:39.646 [main] INFO  core.FileReadWriteExample - Second updated data read from file: [Students names are : , Jess, , , Jessica, David, Bobby]
+23:50:39.659 [main] INFO  core.FileReadWriteExample - Value 'Bobby' deleted from file.
+23:50:39.660 [main] INFO  core.FileReadWriteExample - Final data after deletion: [Students names are : , Jess, , , Jessica, David]

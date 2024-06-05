@@ -1,0 +1,7 @@
+15:34:39.194 [main] INFO  core.MapExample - Map of Employees: {101=Employee{id=101, rating=4}, 102=Employee{id=102, rating=3}, 103=Employee{id=103, rating=5}, 104=Employee{id=104, rating=2}, 105=Employee{id=105, rating=4}}
+15:34:39.209 [main] INFO  core.MapExample - Employee with ID 103: Employee{id=103, rating=5}
+15:34:39.209 [main] INFO  core.MapExample - Does employee with ID 106 exist? false
+15:34:39.209 [main] INFO  core.MapExample - Removing employee with ID 104: Employee{id=104, rating=2}
+15:34:39.209 [main] INFO  core.MapExample - Updated Map of Employees after removal: {101=Employee{id=101, rating=4}, 102=Employee{id=102, rating=3}, 103=Employee{id=103, rating=5}, 105=Employee{id=105, rating=4}}
+15:34:39.212 [main] INFO  core.MapExample - Size of the Map of Employees: 4
+15:34:39.213 [main] INFO  core.MapExample - Map of Employees cleared. Size: 0

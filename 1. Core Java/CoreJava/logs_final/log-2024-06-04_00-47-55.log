@@ -1,0 +1,9 @@
+00:47:55.905 [main] INFO  core.XMLCRUDExample - Current XML Data:
+00:47:55.912 [main] INFO  core.XMLCRUDExample - Name: Harry Potter and the Philosopher's Stone, Author: J.K. Rowling, Year: 1997
+00:47:55.912 [main] INFO  core.XMLCRUDExample - Name: The Hobbit, Author: J.R.R. Tolkien, Year: 1937
+00:47:55.912 [main] INFO  core.XMLCRUDExample - New book added successfully: Lord of the Rings
+00:47:55.917 [main] INFO  core.XMLCRUDExample - Book updated successfully: Harry Potter and the Philosopher's Stone renamed to Harry Potter and the Sorcerer's Stone
+00:47:55.918 [main] INFO  core.XMLCRUDExample - Book deleted successfully: The Hobbit
+00:47:55.923 [main] INFO  core.XMLCRUDExample - Current XML Data:
+00:47:55.923 [main] INFO  core.XMLCRUDExample - Name: Harry Potter and the Sorcerer's Stone, Author: J.K. Rowling, Year: 1997
+00:47:55.923 [main] INFO  core.XMLCRUDExample - Name: Lord of the Rings, Author: J.R.R. Tolkien, Year: 1954

@@ -1,0 +1,4 @@
+23:17:44.818 [main] INFO  core.json.JSONCRUDExample - Created new person: core.json.Person@6221a451
+23:17:44.822 [main] INFO  core.json.JSONCRUDExample - Read person: core.json.Person@46cdf8bd
+23:17:44.823 [main] INFO  core.json.JSONCRUDExample - Updated person: core.json.Person@46cdf8bd
+23:17:44.824 [main] INFO  core.json.JSONCRUDExample - Deleted person with ID: 2

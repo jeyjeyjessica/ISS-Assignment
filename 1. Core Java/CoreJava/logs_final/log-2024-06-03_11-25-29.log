@@ -1,0 +1,5 @@
+11:25:30.197 [main] INFO  core.EncapsulationExample - Title: St. Clare's
+11:25:30.204 [main] INFO  core.EncapsulationExample - Author: Enid Blyton
+11:25:30.205 [main] INFO  core.EncapsulationExample - Year Published: 1941
+11:25:30.206 [main] INFO  core.EncapsulationExample - Updated Title: Malory Towers
+11:25:30.206 [main] INFO  core.EncapsulationExample - Updated Year Published: 1946

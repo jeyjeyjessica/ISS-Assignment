@@ -1,0 +1,10 @@
+10:58:22.041 [main] INFO  core.Employee - Employee ID: 1
+10:58:22.047 [main] INFO  core.Employee - Name: Alice
+10:58:22.047 [main] INFO  core.Teacher - Subject: Math
+10:58:22.049 [main] INFO  core.Employee - Employee ID: 2
+10:58:22.049 [main] INFO  core.Employee - Name: Bob
+10:58:22.050 [main] INFO  core.SoftwareDeveloper - Programming Language: Java
+10:58:22.052 [main] INFO  core.Employee - Employee ID: 3
+10:58:22.052 [main] INFO  core.Employee - Name: Carol
+10:58:22.053 [main] INFO  core.Teacher - Subject: English
+10:58:22.053 [main] INFO  core.EnglishSubject - Specialization: British Literature

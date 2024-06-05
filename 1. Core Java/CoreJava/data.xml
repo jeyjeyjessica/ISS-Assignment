@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<name>Harry Potter and the Sorcerer's Stone</name>
+		<author>J.K. Rowling</author>
+		<year>1997</year>
+	</book>
+
+	<book>
+		<name>Lord of the Rings</name>
+		<author>J.R.R. Tolkien</author>
+		<year>1954</year>
+	</book>
+</books>

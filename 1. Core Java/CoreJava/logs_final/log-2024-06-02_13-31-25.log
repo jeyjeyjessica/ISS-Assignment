@@ -1,0 +1,12 @@
+13:31:25.713 [main] INFO  core.LoopsExample - Calculating percentages using for loop:
+13:31:25.728 [main] INFO  core.LoopsExample - Student 1 Percentage: 80.0%
+13:31:25.729 [main] INFO  core.LoopsExample - Student 2 Percentage: 93.33333333333333%
+13:31:25.729 [main] INFO  core.LoopsExample - Student 3 Percentage: 50.0%
+13:31:25.729 [main] INFO  core.LoopsExample - Student 4 Percentage: 75.0%
+13:31:25.729 [main] INFO  core.LoopsExample - Student 5 Percentage: 90.0%
+13:31:25.729 [main] INFO  core.LoopsExample - Calculating percentages using while loop:
+13:31:25.730 [main] INFO  core.LoopsExample - Student 1 Percentage: 80.0%
+13:31:25.732 [main] INFO  core.LoopsExample - Student 2 Percentage: 93.33333333333333%
+13:31:25.732 [main] INFO  core.LoopsExample - Student 3 Percentage: 50.0%
+13:31:25.733 [main] INFO  core.LoopsExample - Student 4 Percentage: 75.0%
+13:31:25.733 [main] INFO  core.LoopsExample - Student 5 Percentage: 90.0%

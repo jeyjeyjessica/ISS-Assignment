@@ -1,0 +1,10 @@
+23:15:16.792 [main] ERROR core.json.JSONCRUDExample - Error reading data: 
+java.io.FileNotFoundException: data.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106) ~[?:?]
+	at core.json.JSONCRUDExample.readData(JSONCRUDExample.java:51) [bin/:?]
+	at core.json.JSONCRUDExample.main(JSONCRUDExample.java:21) [bin/:?]
+23:15:16.812 [main] INFO  core.json.JSONCRUDExample - Created new person: core.json.Person@783a467b
+23:15:16.814 [main] INFO  core.json.JSONCRUDExample - Read person: null

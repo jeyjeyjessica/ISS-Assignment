@@ -1,0 +1,17 @@
+00:16:31.611 [main] INFO  core.JDBCExample - Table created successfully.
+00:16:31.627 [main] INFO  core.JDBCExample - Data inserted successfully.
+00:16:31.630 [main] INFO  core.JDBCExample - Data inserted successfully.
+00:16:31.633 [main] INFO  core.JDBCExample - Data inserted successfully.
+00:16:31.647 [main] INFO  core.JDBCExample - Data retrieved from database:
+00:16:31.652 [main] INFO  core.JDBCExample - ID: 1, Video Name: Introduction to Java, Views: 1000
+00:16:31.653 [main] INFO  core.JDBCExample - ID: 2, Video Name: Comedy video, Views: 2800
+00:16:31.653 [main] INFO  core.JDBCExample - ID: 3, Video Name: Mystery video, Views: 38444
+00:16:31.658 [main] INFO  core.JDBCExample - Data updated successfully.
+00:16:31.659 [main] INFO  core.JDBCExample - Data retrieved from database:
+00:16:31.659 [main] INFO  core.JDBCExample - ID: 1, Video Name: Introduction to JDBC, Views: 1200
+00:16:31.659 [main] INFO  core.JDBCExample - ID: 2, Video Name: Comedy video, Views: 2800
+00:16:31.659 [main] INFO  core.JDBCExample - ID: 3, Video Name: Mystery video, Views: 38444
+00:16:31.664 [main] INFO  core.JDBCExample - Data deleted successfully.
+00:16:31.666 [main] INFO  core.JDBCExample - Data retrieved from database:
+00:16:31.667 [main] INFO  core.JDBCExample - ID: 2, Video Name: Comedy video, Views: 2800
+00:16:31.667 [main] INFO  core.JDBCExample - ID: 3, Video Name: Mystery video, Views: 38444

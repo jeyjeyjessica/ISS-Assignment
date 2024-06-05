@@ -1,0 +1,8 @@
+22:45:16.945 [main] INFO  core.ModifierExample - Private method called.
+22:45:16.952 [main] INFO  core.ModifierExample - Default method called.
+22:45:16.953 [main] INFO  core.ModifierExample - Protected method called.
+22:45:16.954 [main] INFO  core.ModifierExample - Public method called.
+22:45:16.955 [main] INFO  core.ModifierExample - Private variable: 10
+22:45:16.955 [main] INFO  core.ModifierExample - Default variable: 20
+22:45:16.956 [main] INFO  core.ModifierExample - Protected variable: 30
+22:45:16.956 [main] INFO  core.ModifierExample - Public variable: 40

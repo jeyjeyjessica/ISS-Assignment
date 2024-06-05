@@ -1,0 +1,7 @@
+15:22:45.652 [main] INFO  core.SetExample - Size of the set : 5
+15:22:45.657 [main] INFO  core.SetExample - Size of firefighters set after adding duplicate: 5
+15:22:45.673 [main] INFO  core.SetExample - Does the set contain firefighter Firefighter{badgeNumber=101, stationNumber=5, name='Jessica'}? true
+15:22:45.674 [main] INFO  core.SetExample - Is firefighter Firefighter{badgeNumber=103, stationNumber=7, name='Evan'} removed from the set? true
+15:22:45.675 [main] INFO  core.SetExample - Elements of firefighters set after removal: [Firefighter{badgeNumber=102, stationNumber=3, name='Hen'}, Firefighter{badgeNumber=105, stationNumber=6, name='Bobby'}, Firefighter{badgeNumber=104, stationNumber=2, name='Eddie'}, Firefighter{badgeNumber=101, stationNumber=5, name='Jessica'}]
+15:22:45.677 [main] INFO  core.SetExample - Firefighters set cleared. Size: 0
+15:22:45.677 [main] INFO  core.SetExample - Is the set empty? true

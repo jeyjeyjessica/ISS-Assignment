@@ -1,0 +1,19 @@
+21:44:40.625 [main] INFO  core.BasicConceptsExample - Marvel Characters:
+21:44:40.634 [main] INFO  core.BasicConceptsExample - Name: Tony Stark
+21:44:40.635 [main] INFO  core.BasicConceptsExample - Alias: Iron Man
+21:44:40.635 [main] INFO  core.BasicConceptsExample - Superpowers:
+21:44:40.636 [main] INFO  core.BasicConceptsExample - - Flight
+21:44:40.636 [main] INFO  core.BasicConceptsExample - - Repulsor blasts
+21:44:40.637 [main] INFO  core.BasicConceptsExample - - Genius-level intellect
+21:44:40.637 [main] INFO  core.BasicConceptsExample - Name: Steve Rogers
+21:44:40.638 [main] INFO  core.BasicConceptsExample - Alias: Captain America
+21:44:40.640 [main] INFO  core.BasicConceptsExample - Superpowers:
+21:44:40.640 [main] INFO  core.BasicConceptsExample - - Enhanced strength
+21:44:40.641 [main] INFO  core.BasicConceptsExample - - Agility
+21:44:40.641 [main] INFO  core.BasicConceptsExample - - Shield proficiency
+21:44:40.642 [main] INFO  core.BasicConceptsExample - Name: Thor Odinson
+21:44:40.642 [main] INFO  core.BasicConceptsExample - Alias: Thor
+21:44:40.642 [main] INFO  core.BasicConceptsExample - Superpowers:
+21:44:40.643 [main] INFO  core.BasicConceptsExample - - Superhuman strength
+21:44:40.643 [main] INFO  core.BasicConceptsExample - - Mjolnir wielding
+21:44:40.644 [main] INFO  core.BasicConceptsExample - - Weather manipulation

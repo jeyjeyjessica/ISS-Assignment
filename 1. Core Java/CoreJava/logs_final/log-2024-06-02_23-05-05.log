@@ -1,0 +1,11 @@
+23:05:05.318 [main] INFO  core.StringExample - Length of the string: 18
+23:05:05.322 [main] INFO  core.StringExample - Does the string contain 'name'?: true
+23:05:05.323 [main] INFO  core.StringExample - Replaced string: My name is John
+23:05:05.323 [main] INFO  core.StringExample - Split string:
+23:05:05.323 [main] INFO  core.StringExample - My
+23:05:05.323 [main] INFO  core.StringExample - name
+23:05:05.323 [main] INFO  core.StringExample - is
+23:05:05.323 [main] INFO  core.StringExample - Jessica
+23:05:05.324 [main] INFO  core.StringExample - Substring: name 
+23:05:05.324 [main] INFO  core.StringExample - Using StringBuffer: My name is Jessica, and I love programming.
+23:05:05.325 [main] INFO  core.StringExample - Using StringBuilder: acisseJ si eman yM

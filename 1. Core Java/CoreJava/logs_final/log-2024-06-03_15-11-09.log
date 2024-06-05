@@ -1,0 +1,6 @@
+15:11:10.265 [main] INFO  core.ListExample - Elements of numbers list: [10, 20, 30, 40, 50]
+15:11:10.272 [main] INFO  core.ListExample - Size of numbers list: 5
+15:11:10.273 [main] INFO  core.ListExample - Does numbers list contain 30? true
+15:11:10.274 [main] INFO  core.ListExample - Element at index 2: 30
+15:11:10.274 [main] INFO  core.ListExample - After removing element at index 2: [10, 20, 40, 50]
+15:11:10.285 [main] INFO  core.ListExample - Elements of students list: [Student{id=1, name='Jessica'}, Student{id=2, name='Evan'}, Student{id=3, name='Eddie'}]

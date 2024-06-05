@@ -1,0 +1,21 @@
+22:57:58.298 [pool-2-thread-1] INFO  core.MultithreadingExample - Thread pool-2-thread-1 generated number: 77
+22:57:58.298 [pool-2-thread-3] INFO  core.MultithreadingExample - Thread pool-2-thread-3 generated number: 39
+22:57:58.298 [pool-2-thread-4] INFO  core.MultithreadingExample - Thread pool-2-thread-4 generated number: 1
+22:57:58.298 [pool-2-thread-5] INFO  core.MultithreadingExample - Thread pool-2-thread-5 generated number: 60
+22:57:58.298 [pool-2-thread-2] INFO  core.MultithreadingExample - Thread pool-2-thread-2 generated number: 82
+22:57:58.303 [pool-2-thread-3] INFO  core.MultithreadingExample - Thread pool-2-thread-3 incremented shared counter to: 1
+22:57:58.304 [pool-2-thread-1] INFO  core.MultithreadingExample - Thread pool-2-thread-1 incremented shared counter to: 2
+22:57:58.304 [pool-2-thread-3] INFO  core.MultithreadingExample - Thread pool-2-thread-3 generated number: 16
+22:57:58.304 [pool-2-thread-1] INFO  core.MultithreadingExample - Thread pool-2-thread-1 generated number: 88
+22:57:58.305 [pool-2-thread-5] INFO  core.MultithreadingExample - Thread pool-2-thread-5 incremented shared counter to: 3
+22:57:58.305 [pool-2-thread-5] INFO  core.MultithreadingExample - Thread pool-2-thread-5 generated number: 0
+22:57:58.305 [pool-2-thread-3] INFO  core.MultithreadingExample - Thread pool-2-thread-3 incremented shared counter to: 4
+22:57:58.305 [pool-2-thread-3] INFO  core.MultithreadingExample - Thread pool-2-thread-3 generated number: 36
+22:57:58.305 [pool-2-thread-2] INFO  core.MultithreadingExample - Thread pool-2-thread-2 incremented shared counter to: 5
+22:57:58.305 [pool-2-thread-4] INFO  core.MultithreadingExample - Thread pool-2-thread-4 incremented shared counter to: 6
+22:57:58.306 [pool-2-thread-2] INFO  core.MultithreadingExample - Thread pool-2-thread-2 generated number: 62
+22:57:58.306 [pool-2-thread-3] INFO  core.MultithreadingExample - Thread pool-2-thread-3 incremented shared counter to: 7
+22:57:58.306 [pool-2-thread-5] INFO  core.MultithreadingExample - Thread pool-2-thread-5 incremented shared counter to: 8
+22:57:58.307 [pool-2-thread-1] INFO  core.MultithreadingExample - Thread pool-2-thread-1 incremented shared counter to: 9
+22:57:58.308 [pool-2-thread-2] INFO  core.MultithreadingExample - Thread pool-2-thread-2 incremented shared counter to: 10
+22:57:58.309 [main] INFO  core.MultithreadingExample - Final value of shared counter: 10

@@ -1,0 +1,12 @@
+13:52:22.445 [main] INFO  core.DecisionMakingExample - USING IF-ELSE
+13:52:22.463 [main] INFO  core.DecisionMakingExample - Student 1 - Marks: 85, Grade: O
+13:52:22.464 [main] INFO  core.DecisionMakingExample - Student 2 - Marks: 76, Grade: A
+13:52:22.464 [main] INFO  core.DecisionMakingExample - Student 3 - Marks: 68, Grade: C
+13:52:22.465 [main] INFO  core.DecisionMakingExample - Student 4 - Marks: 57, Grade: E
+13:52:22.465 [main] INFO  core.DecisionMakingExample - Student 5 - Marks: 92, Grade: O
+13:52:22.466 [main] INFO  core.DecisionMakingExample - USING SWITCH STATEMENT
+13:52:22.478 [main] INFO  core.DecisionMakingExample - Student 1 - Grade: O, Comment: Outstanding
+13:52:22.478 [main] INFO  core.DecisionMakingExample - Student 2 - Grade: A, Comment: Very Good
+13:52:22.480 [main] INFO  core.DecisionMakingExample - Student 3 - Grade: C, Comment: Fair
+13:52:22.480 [main] INFO  core.DecisionMakingExample - Student 4 - Grade: E, Comment: Pass
+13:52:22.480 [main] INFO  core.DecisionMakingExample - Student 5 - Grade: O, Comment: Outstanding

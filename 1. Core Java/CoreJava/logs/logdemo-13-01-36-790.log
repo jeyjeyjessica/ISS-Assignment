@@ -1,0 +1,17 @@
+00:52:38.553 [main] INFO  trial.LoggingDemo - Clicked button
+00:52:38.557 [main] ERROR trial.LoggingDemo - DB Connection failed
+00:52:38.557 [main] DEBUG trial.LoggingDemo - Debug message
+00:52:38.557 [main] FATAL trial.LoggingDemo - Fatal error
+00:53:49.513 [main] INFO  trial.LoggingDemo - Clicked button
+00:53:49.518 [main] ERROR trial.LoggingDemo - DB Connection failed
+00:53:49.518 [main] DEBUG trial.LoggingDemo - Debug message
+00:53:49.518 [main] FATAL trial.LoggingDemo - Fatal error
+00:53:49.518 [main] INFO  trial.LoggingDemo - Clicked button
+00:53:49.519 [main] ERROR trial.LoggingDemo - DB Connection failed
+00:53:49.519 [main] DEBUG trial.LoggingDemo - Debug message
+00:53:49.519 [main] FATAL trial.LoggingDemo - Fatal error
+00:53:49.521 [main] INFO  trial.LoggingDemo - Clicked button
+00:53:49.521 [main] ERROR trial.LoggingDemo - DB Connection failed
+00:53:49.521 [main] DEBUG trial.LoggingDemo - Debug message
+00:53:49.521 [main] FATAL trial.LoggingDemo - Fatal error
+00:53:49.521 [main] INFO  trial.LoggingDemo - Clicked button

@@ -1,0 +1,5 @@
+11:08:12.813 [main] INFO  core.PolymorphismExample - Area of rectangle (5, 10): 50.0
+11:08:12.819 [main] INFO  core.PolymorphismExample - Area of circle (7): 153.93804002589985
+11:08:12.821 [main] INFO  core.PolymorphismExample - Area of rectangle: 50.0
+11:08:12.822 [main] INFO  core.PolymorphismExample - Area of circle: 153.93804002589985
+11:08:12.823 [main] INFO  core.PolymorphismExample - Base class method called : 0.0

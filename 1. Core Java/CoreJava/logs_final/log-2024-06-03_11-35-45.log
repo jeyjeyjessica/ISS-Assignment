@@ -1,0 +1,4 @@
+11:35:45.441 [main] INFO  core.InterfaceExample - Name: The Hobbit
+11:35:45.449 [main] INFO  core.InterfaceExample - Rating: 4.8
+11:35:45.450 [main] INFO  core.InterfaceExample - Name: Sherlock Holmes
+11:35:45.451 [main] INFO  core.InterfaceExample - Rating: 4.6

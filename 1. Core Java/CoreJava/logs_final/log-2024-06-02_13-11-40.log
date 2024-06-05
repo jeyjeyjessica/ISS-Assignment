@@ -1,0 +1,5 @@
+13:11:41.023 [main] INFO  core.Student - Student Name: Jessica
+13:11:41.028 [main] INFO  core.Student - Age: 21
+13:11:41.030 [main] INFO  core.Student - GPA: 3.7
+13:11:41.030 [main] INFO  core.Student - School: XYZ High School
+13:11:41.031 [main] INFO  core.Student - Calculated Grade: A

@@ -1,0 +1,8 @@
+13:01:36.786 [main] INFO  trial.LoggingDemo - Clicked button
+13:01:36.801 [main] ERROR trial.LoggingDemo - DB Connection failed
+13:01:36.803 [main] DEBUG trial.LoggingDemo - Debug message
+13:01:36.803 [main] FATAL trial.LoggingDemo - Fatal error
+13:02:06.551 [main] INFO  trial.LoggingDemo - Clicked button
+13:02:06.561 [main] ERROR trial.LoggingDemo - DB Connection failed
+13:02:06.562 [main] DEBUG trial.LoggingDemo - Debug message
+13:02:06.562 [main] FATAL trial.LoggingDemo - Fatal error

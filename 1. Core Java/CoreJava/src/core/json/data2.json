@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Jessica Lalchandani",
+        "address": {
+            "street": "1302, kings court",
+            "city": "kalyan",
+            "zipcode": "421301"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jess Lal",
+        "address": {
+            "street": "456 Oak St",
+            "city": "Ulhasnagar",
+            "zipcode": "421003"
+        }
+    }
+]

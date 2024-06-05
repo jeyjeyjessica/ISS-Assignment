@@ -1,0 +1,4 @@
+11:18:55.057 [main] INFO  core.AbstractionExample - Title: The Hobbit, Author: J.R.R. Tolkien
+11:18:55.066 [main] INFO  core.AbstractionExample - Genre: Fantasy
+11:18:55.067 [main] INFO  core.AbstractionExample - Title: Sherlock Holmes, Author: Sir Arthur Conan Doyle
+11:18:55.067 [main] INFO  core.AbstractionExample - Genre: Mystery
