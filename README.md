@@ -11,7 +11,7 @@ Packages :<br/>
 2. SQL <br/>
 final_compiled - It contains all the SQL statements in a single file.<br/>
 <br/>
--- **Client Side Programming Output Video **: <br/>
+-- **Client Side Programming Output Video** : <br/>
 https://drive.google.com/file/d/1d_sP8zn6QG6FYcdhx_Bf_4sDqalqgdhm/view?usp=drive_link  <br/>
 <br/>
 -- **Server Side Programming Output Video** : <br/>
